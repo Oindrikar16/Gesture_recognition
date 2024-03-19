@@ -40,8 +40,7 @@ Ten subjects total—five male and five female. There are
 twenty thousand pictures in all. An image should therefore
 be categorized into one of the ten classes.
 
-Kaggle Dataset link: https://www.kaggle.com/datasets/gtiupm/
-leapgestrecog
+Kaggle Dataset link: https://www.kaggle.com/datasets/gtiupm/leapgestrecog
 
 # Data Preprocessing 
 The process of classification begins with preprocessing.
